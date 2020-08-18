@@ -1,5 +1,5 @@
 # Tistory-DeepLearning
 
 ### http://childult-programmer.tistory.com/
-#### ML/DL code, posted on Tistory
+#### posted on Tistory and
 #### written in Jupyter notebook, Google Colab, Pycharm 
